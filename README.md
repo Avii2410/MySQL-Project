@@ -1,2 +1,2 @@
 # MySQL-Project
- Walmart's Retail insights optimization
+# Walmart's Retail insights optimization
